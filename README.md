@@ -8,7 +8,7 @@
 💭 Experimenting in Vulnerability's in Electronics Devices<br/>
 📫 Try to contact me on [Linkedin](https://www.linkedin.com/in/jevaakharthik/).<br/>
 
-<br/>
+
 # 📊 GitHub Stats:
 
 ![Jevaa Kharthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jevaa-kharthik&show_icons=true&theme=tokyonight)
@@ -20,7 +20,7 @@
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jevaakharthik/)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Jevaa-Kharthik)) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Jevaa-Kharthik)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Jevaa-kharthik)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22453483/jevaa-kharthik)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Jevaa_Kharthik/)
