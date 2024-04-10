@@ -1,4 +1,10 @@
-### Hi there 👋
+### Jevaa Kharthik is Here 👋🏻👋🏻
+
+👨🏻‍💻 Cybersecurity & Ethical Hacker sharing about my journey and learning<br/>
+👨🏻‍🎓 Studied [Electrical and Electronics Engineering](https://kpriet.ac.in) at KPR Institute, India<br/>
+⚡️ Enhancing new skills in Ethical Hacking
+💭 Experimenting in Vulnerability's in Electronics Devices
+📫 Try to contact me on [Linkedin](https://www.linkedin.com/in/jevaakharthik/).<br/>
 
 <!--
 **Jevaa-kharthik/Jevaa-kharthik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
