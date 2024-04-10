@@ -6,7 +6,7 @@
 👨🏻‍🎓 Studied [Electrical and Electronics Engineering](https://kpriet.ac.in) at KPR Institute of Engineering and Technology, India<br/>
 ⚡️ Enhancing new skills in Ethical Hacking<br/>
 💭 Experimenting in Vulnerability's in Electronics Devices<br/>
-📫 Try to contact me on [Linkedin](https://www.linkedin.com/in/jevaakharthik/).<br/>
+📫 Try to contact me on [Linkedin](https://www.linkedin.com/in/jevaakharthik/)<br/>
 
 ![Jevaa Kharthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jevaa-kharthik&show_icons=true&theme=tokyonight)
 
@@ -15,7 +15,6 @@
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jevaakharthik/)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Jevaa-kharthik)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22453483/jevaa-kharthik)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Jevaa_Kharthik/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/21EE050_KPRIET)
