@@ -3,7 +3,7 @@
 #### 💫 About Me:
 
 👨🏻‍💻 Cybersecurity & Ethical Hacker sharing about my journey and learning<br/>
-👨🏻‍🎓 Studied [Electrical and Electronics Engineering](https://kpriet.ac.in) at KPR Institute of Engineering and Technology, India<br/>
+👨🏻‍🎓 Studied Electrical and Electronics Engineering at [KPR Institute of Engineering and Technology](https://kpriet.ac.in), India<br/>
 ⚡️ Enhancing new skills in Ethical Hacking<br/>
 💭 Experimenting in Vulnerability's in Electronics Devices<br/>
 📫 Try to contact me on [Linkedin](https://www.linkedin.com/in/jevaakharthik/)<br/>
